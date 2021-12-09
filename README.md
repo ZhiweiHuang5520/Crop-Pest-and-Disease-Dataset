@@ -1,4 +1,5 @@
-## 病虫害，农业作物数据集
+## 农业作物病虫害以及疾病数据集
+收集了关于病虫害，农业作物疾病公开数据集。
 
 #### 1. IP102: A Large-Scale Benchmark Dataset for Insect Pest Recognition(https://github.com/xpwu95/IP102)
 
